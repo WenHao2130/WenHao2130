@@ -4,7 +4,17 @@ Welcome to my homepage
 
 I'm **WenHao2130**  
 
-A high school student who knows nothing  
+```
+__        __         _   _            ____  _ _____  ___  
+\ \      / /__ _ __ | | | | __ _  ___|___ \/ |___ / / _ \ 
+ \ \ /\ / / _ \ '_ \| |_| |/ _` |/ _ \ __) | | |_ \| | | |
+  \ V  V /  __/ | | |  _  | (_| | (_) / __/| |___) | |_| |
+   \_/\_/ \___|_| |_|_| |_|\__,_|\___/_____|_|____/ \___/
+
+```
+
+
+A high school student
 
 ![WenHao2130's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WenHao2130&show_icons=true&theme=light)  
 
